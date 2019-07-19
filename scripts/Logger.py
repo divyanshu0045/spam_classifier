@@ -5,7 +5,7 @@ import logging
 import os
 import inspect
 
-__author__ = 'Divyanshu Chauhan <divyanshu.chauhan@one97.net>'
+__author__ = 'Divyanshu Chauhan <divyanshu0045@gmail.com>'
 __date__ = '24 Dec 2018'
 
 class logger():
