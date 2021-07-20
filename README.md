@@ -16,4 +16,5 @@ Spam Classifier
 >    	e. quit and exit
 	
 3. Run Main.py
+
     python Main.py
